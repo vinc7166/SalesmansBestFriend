@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:textSize="45dp"
+    android:text="default"
+    android:id="@+id/txvEmployee"
+    android:clickable="false"
+    android:focusable="false"
+    style="@android:style/Widget.Button"
+    android:background="#FF776A"
+    android:textStyle="italic" />
